@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background-color: rgb(156, 156, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+h1.principio {
+    background-image: linear-gradient(to right, #2e007d, #00eeff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+    width: 450px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+img#entrada {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    display: block;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}
+
+h2 {
+    color: rgb(42, 9, 119);
+    line-height: 1.6;
+}
+
+h3 {
+    color: #00eeff;
+    line-height: 1.6;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+#prueba-id {
+    font-size: 45px;
+}
+
+#contecto {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img.album {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 1.6;
+
+}
+
+img.album:hover {
+    transform: scale(0.7);
+    transition: 1s;
+
+
+
+
+}
+
+h1,
+h2,
+h3 {
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: rgb(156, 156, 156);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+main {
+    background-color: rgb(156, 156, 156);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    list-style: none;
+}
+
+a:hover {
+    color: #03428590;
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+}
+
+h2.white {
+    color: #eaeaea;
+}
+
+#Music {
+    color: #0700c5;
+
+}
+.contenido {
+    background-color: rgb(156, 156, 156);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+}
